@@ -2,9 +2,9 @@
 ![LOGO](/src/SD-Ripper-LOGO.png "LOGO")
 
 
-#SD-Ripper
+# SD-Ripper
 
-##Filename: rip.sh -> Main Driver
+## Filename: rip.sh -> Main Driver
 run using:
 
 $  ./rip.sh [option] [absolute file path]
